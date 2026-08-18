@@ -1,5 +1,3 @@
-# springbootA682D-
-springbootA682D 基于SpringBoot金融信贷管理系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
